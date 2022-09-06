@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=wtlllll190812&show_icons=true&icon_color=CE1D2D&text_color=c4c4c4&bg_color=0d1117&hide_title=true" />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wtlllll190812&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wtlllll190812&count_private=true&show_icons=true&theme=onedark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
