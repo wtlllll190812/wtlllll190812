@@ -3,7 +3,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=wtlllll190812&count_private=true&show_icons=true&theme=onedark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wtlllll190812&count_private=true&show_icons=true&theme=onedark&layout=donut&size_weight=0.5&count_weight=0.5&langs_count=4" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wtlllll190812&langs_count=4&count_private=true&show_icons=true&theme=onedark&layout=donut&size_weight=0.5&count_weight=0.5" />
 </a>
 
 
