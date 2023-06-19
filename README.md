@@ -32,6 +32,7 @@
   </a>
 </p>
 
+# 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align='center'
@@ -47,6 +48,16 @@
 
 <!-- ![Metrics](https://metrics.lecoq.io/wtlllll190812?template=classic&achievements=1&isocalendar=1&languages=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FShanghai) -->
 
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+<table>
+<tr>
+<td valign="top" width="50%">
 <!-- steam-box start -->
 
 #### <a href="https://gist.github.com/666a00ad86020e64d1efed90f0a18c1c" target="_blank">🎮 Steam playtime
@@ -62,3 +73,19 @@
 
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
+</td>
+<td valign="top" width="50%">
+<!--START_SECTION:waka-->
+   
+#### <a href="https://gist.github.com/9bc7025496e478f439b9cd43eba989a4" target="_blank">📊 Weekly development breakdown</a>
+```text
+Go              🕓 32h17m ████████████████████▎░ 92.2%
+XML             🕓 1h8m   ▋░░░░░░░░░░░░░░░░░░░░░  3.2%
+Other           🕓 52m    ▌░░░░░░░░░░░░░░░░░░░░░  2.5%
+PHP             🕓 23m    ▏░░░░░░░░░░░░░░░░░░░░░  1.1%
+CSV             🕓 7m     ░░░░░░░░░░░░░░░░░░░░░░  0.4%
+```
+<!--END_SECTION:waka-->
+</td>
+</tr>
+</table>
