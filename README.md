@@ -33,16 +33,16 @@
 </p>
 
 # 
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<p align='center'>
+<a href="https://github.com/anuraghazra/github-readme-stats" align='center'>
   <img align='center'
     src="https://github-readme-stats-wtlllll.vercel.app/api?username=wtlllll190812&theme=onedark&show_icons=true&hide_title=true&PAT_1&line_height=28&hide_border=true&hide_rank=true" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/anuraghazra/github-readme-stats" >
   <img align='center'
     src="https://github-readme-stats-wtlllll.vercel.app/api/wakatime?username=wtlllll&theme=onedark&layout=compact&langs_count=10&hide_title=true&hide_border=true" />
 </a>
-
+</p>
 <!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=wtlllll190812&theme=onedark_duo&hide_border=true&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 -->
 
@@ -52,10 +52,8 @@
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
 
-<table>
+<table align='center'>
 <tr>
 <td valign="top" width="50%">
 <!-- steam-box start -->
