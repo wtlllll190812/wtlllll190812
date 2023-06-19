@@ -1,9 +1,8 @@
-### Hi there 👋
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wtlllll190812&count_private=true&show_icons=true&theme=onedark" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=wtlllll190812&count_private=true&show_icons=true&theme=onedark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=wtlllll&count_private=true&show_icons=true&theme=onedark&layout=compact" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=wtlllll&count_private=true&show_icons=true&theme=onedark&layout=compact" />
 </a>
 
 
