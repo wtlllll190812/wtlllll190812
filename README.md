@@ -1,10 +1,8 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=wtlllll190812&count_private=true&show_icons=true&theme=onedark" />
-    <a >sdsdsdsd</a>
+  <img src="https://github-readme-stats.vercel.app/api?username=wtlllll190812&count_private=true&show_icons=true&theme=onedark" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-     <a >sdsdsdsd</a>
- <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=wtlllll&count_private=true&show_icons=true&theme=onedark&layout=compact" />
+ <img src="https://github-readme-stats.vercel.app/api/wakatime?username=wtlllll&count_private=true&show_icons=true&theme=onedark&layout=compact" />
 </a>
 
 
