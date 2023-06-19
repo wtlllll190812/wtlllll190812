@@ -1,13 +1,9 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=wtlllll190812&count_private=true&show_icons=true&theme=onedark" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=wtlllll&count_private=true&show_icons=true&theme=onedark&layout=compact" />
 </a>
-
-
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wtlllll&count_private=true&show_icons=true&theme=onedark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 <!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=wtlllll190812&theme=onedark_duo&hide_border=true&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
