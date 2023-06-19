@@ -57,6 +57,15 @@
 <tr>
 <td valign="top" width="50%">
 <!-- steam-box start -->
+#### <a href="https://gist.github.com/666a00ad86020e64d1efed90f0a18c1c" target="_blank">🎮 Steam playtime leaderboard</a>
+```text
+🎮 Dyson Sphere Program             🕘 75 hrs 22 mins
+🎮 WorldBox - God Simulator         🕘 66 hrs 35 mins
+🎮 Besiege                          🕘 53 hrs 54 mins
+🎮 Kerbal Space Program             🕘 43 hrs 20 mins
+🎮 Outer Wilds                      🕘 37 hrs 15 mins
+```
+<!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
 </td>
 <td valign="top" width="50%">
