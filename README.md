@@ -1,11 +1,15 @@
 ### Hi there 👋
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wtlllll190812&count_private=true&show_icons=true&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?
+    username=wtlllll190812&count_private=true&show_icons=true&theme=onedark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wtlllll190812&count_private=true&show_icons=true&theme=onedark&layout=donut&size_weight=0.5&count_weight=0.5" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?
+    username=wtlllll190812&count_private=true&show_icons=true&theme=onedark&layout=donut&size_weight=0.5&count_weight=0.5&langs_count=4" />
 </a>
 
+
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wtlllll&count_private=true&show_icons=true&theme=onedark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=wtlllll190812&theme=onedark_duo&hide_border=true&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
