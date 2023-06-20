@@ -56,8 +56,8 @@
 <table align='center'>
 <tr>
 <td valign="top" width="50%">
+   
 <!-- steam-box start -->
-#### <a href="https://gist.github.com/666a00ad86020e64d1efed90f0a18c1c" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
 🎮 Dyson Sphere Program             🕘 75 hrs 22 mins
 🎮 WorldBox - God Simulator         🕘 66 hrs 35 mins
