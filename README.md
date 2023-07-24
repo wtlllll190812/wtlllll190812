@@ -73,10 +73,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-C#               8 mins          ███████████████████▒░░░░░   77.22 %
-GitIgnore file   2 mins          █████░░░░░░░░░░░░░░░░░░░░   19.97 %
-JSON             0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
-textmate         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
