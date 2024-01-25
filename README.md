@@ -73,11 +73,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-C           2 hrs 37 mins   ██████████▓░░░░░░░░░░░░░░   42.75 %
-Python      1 hr 35 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.86 %
-Other       58 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.99 %
-Bash        24 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.71 %
-Batchfile   13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
