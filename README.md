@@ -64,7 +64,7 @@
 🎮 WorldBox - God Simulator         🕘 67 hrs 50 mins
 🎮 Besiege                          🕘 53 hrs 54 mins
 🎮 Kerbal Space Program             🕘 43 hrs 20 mins
-🎮 Outer Wilds                      🕘 37 hrs 15 mins
+🎮 Terraria                         🕘 42 hrs 8 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
