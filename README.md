@@ -62,9 +62,9 @@
 ```text
 🎮 Dyson Sphere Program             🕘 75 hrs 22 mins
 🎮 WorldBox - God Simulator         🕘 67 hrs 50 mins
+🎮 Terraria                         🕘 56 hrs 21 mins
 🎮 Besiege                          🕘 53 hrs 54 mins
 🎮 Kerbal Space Program             🕘 43 hrs 20 mins
-🎮 Terraria                         🕘 42 hrs 8 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
