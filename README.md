@@ -64,7 +64,7 @@
 🎮 Dyson Sphere Program             🕘 75 hrs 22 mins
 🎮 WorldBox - God Simulator         🕘 67 hrs 50 mins
 🎮 Besiege                          🕘 53 hrs 54 mins
-🎮 tModLoader                       🕘 46 hrs 47 mins
+🎮 ELDEN RING                       🕘 48 hrs 31 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
