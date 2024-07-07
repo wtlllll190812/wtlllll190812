@@ -60,8 +60,8 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/666a00ad86020e64d1efed90f0a18c1c" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
+🎮 ELDEN RING                       🕘 121 hrs 10 mins
 🎮 Terraria                         🕘 118 hrs 58 mins
-🎮 ELDEN RING                       🕘 117 hrs 39 mins
 🎮 Dyson Sphere Program             🕘 75 hrs 22 mins
 🎮 WorldBox - God Simulator         🕘 67 hrs 50 mins
 🎮 Besiege                          🕘 53 hrs 54 mins
